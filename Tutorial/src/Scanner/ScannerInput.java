@@ -1,6 +1,6 @@
 package Scanner;
 
-import java.sql.Time;
+
 import java.util.Scanner;
 
 public class ScannerInput {
